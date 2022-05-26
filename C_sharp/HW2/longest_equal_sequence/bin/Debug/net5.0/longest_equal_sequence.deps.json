@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "longest_equal_sequence/1.0.0": {
+        "runtime": {
+          "longest_equal_sequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "longest_equal_sequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

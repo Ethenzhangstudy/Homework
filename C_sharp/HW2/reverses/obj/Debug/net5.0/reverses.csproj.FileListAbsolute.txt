@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/HW2/reverses/bin/Debug/net5.0/reverses.deps.json
+/Users/Ethan_Zhang/Desktop/HW2/reverses/bin/Debug/net5.0/reverses.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/HW2/reverses/bin/Debug/net5.0/reverses.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/HW2/reverses/bin/Debug/net5.0/reverses.dll
+/Users/Ethan_Zhang/Desktop/HW2/reverses/bin/Debug/net5.0/ref/reverses.dll
+/Users/Ethan_Zhang/Desktop/HW2/reverses/bin/Debug/net5.0/reverses.pdb
+/Users/Ethan_Zhang/Desktop/HW2/reverses/obj/Debug/net5.0/reverses.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/HW2/reverses/obj/Debug/net5.0/reverses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/HW2/reverses/obj/Debug/net5.0/reverses.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/reverses/obj/Debug/net5.0/reverses.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/HW2/reverses/obj/Debug/net5.0/reverses.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/reverses/obj/Debug/net5.0/reverses.dll
+/Users/Ethan_Zhang/Desktop/HW2/reverses/obj/Debug/net5.0/ref/reverses.dll
+/Users/Ethan_Zhang/Desktop/HW2/reverses/obj/Debug/net5.0/reverses.pdb
+/Users/Ethan_Zhang/Desktop/HW2/reverses/obj/Debug/net5.0/reverses.genruntimeconfig.cache

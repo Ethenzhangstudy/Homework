@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/obj/Debug/net5.0/rotate_array.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/obj/Debug/net5.0/rotate_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/obj/Debug/net5.0/rotate_array.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/obj/Debug/net5.0/rotate_array.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/obj/Debug/net5.0/rotate_array.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/bin/Debug/net5.0/rotate_array.deps.json
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/bin/Debug/net5.0/rotate_array.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/bin/Debug/net5.0/rotate_array.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/bin/Debug/net5.0/rotate_array.dll
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/bin/Debug/net5.0/ref/rotate_array.dll
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/bin/Debug/net5.0/rotate_array.pdb
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/obj/Debug/net5.0/rotate_array.dll
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/obj/Debug/net5.0/ref/rotate_array.dll
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/obj/Debug/net5.0/rotate_array.pdb
+/Users/Ethan_Zhang/Desktop/HW2/rotate_array/obj/Debug/net5.0/rotate_array.genruntimeconfig.cache

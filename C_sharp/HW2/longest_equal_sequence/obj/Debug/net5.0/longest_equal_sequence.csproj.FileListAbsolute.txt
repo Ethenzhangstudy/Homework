@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/bin/Debug/net5.0/longest_equal_sequence.deps.json
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/bin/Debug/net5.0/longest_equal_sequence.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/bin/Debug/net5.0/longest_equal_sequence.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/bin/Debug/net5.0/longest_equal_sequence.dll
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/bin/Debug/net5.0/ref/longest_equal_sequence.dll
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/bin/Debug/net5.0/longest_equal_sequence.pdb
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/obj/Debug/net5.0/longest_equal_sequence.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/obj/Debug/net5.0/longest_equal_sequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/obj/Debug/net5.0/longest_equal_sequence.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/obj/Debug/net5.0/longest_equal_sequence.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/obj/Debug/net5.0/longest_equal_sequence.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/obj/Debug/net5.0/longest_equal_sequence.dll
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/obj/Debug/net5.0/ref/longest_equal_sequence.dll
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/obj/Debug/net5.0/longest_equal_sequence.pdb
+/Users/Ethan_Zhang/Desktop/HW2/longest_equal_sequence/obj/Debug/net5.0/longest_equal_sequence.genruntimeconfig.cache

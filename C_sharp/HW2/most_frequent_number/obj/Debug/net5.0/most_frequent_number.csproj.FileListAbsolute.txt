@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/bin/Debug/net5.0/most_frequent_number.deps.json
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/bin/Debug/net5.0/most_frequent_number.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/bin/Debug/net5.0/most_frequent_number.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/bin/Debug/net5.0/most_frequent_number.dll
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/bin/Debug/net5.0/ref/most_frequent_number.dll
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/bin/Debug/net5.0/most_frequent_number.pdb
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/obj/Debug/net5.0/most_frequent_number.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/obj/Debug/net5.0/most_frequent_number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/obj/Debug/net5.0/most_frequent_number.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/obj/Debug/net5.0/most_frequent_number.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/obj/Debug/net5.0/most_frequent_number.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/obj/Debug/net5.0/most_frequent_number.dll
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/obj/Debug/net5.0/ref/most_frequent_number.dll
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/obj/Debug/net5.0/most_frequent_number.pdb
+/Users/Ethan_Zhang/Desktop/HW2/most_frequent_number/obj/Debug/net5.0/most_frequent_number.genruntimeconfig.cache

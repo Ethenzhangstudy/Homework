@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/bin/Debug/net5.0/prime_numbers.deps.json
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/bin/Debug/net5.0/prime_numbers.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/bin/Debug/net5.0/prime_numbers.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/bin/Debug/net5.0/prime_numbers.dll
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/bin/Debug/net5.0/ref/prime_numbers.dll
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/bin/Debug/net5.0/prime_numbers.pdb
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/obj/Debug/net5.0/prime_numbers.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/obj/Debug/net5.0/prime_numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/obj/Debug/net5.0/prime_numbers.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/obj/Debug/net5.0/prime_numbers.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/obj/Debug/net5.0/prime_numbers.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/obj/Debug/net5.0/prime_numbers.dll
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/obj/Debug/net5.0/ref/prime_numbers.dll
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/obj/Debug/net5.0/prime_numbers.pdb
+/Users/Ethan_Zhang/Desktop/HW2/prime_numbers/obj/Debug/net5.0/prime_numbers.genruntimeconfig.cache

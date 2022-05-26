@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/bin/Debug/net5.0/Copyarray.deps.json
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/bin/Debug/net5.0/Copyarray.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/bin/Debug/net5.0/Copyarray.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/bin/Debug/net5.0/Copyarray.dll
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/bin/Debug/net5.0/ref/Copyarray.dll
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/bin/Debug/net5.0/Copyarray.pdb
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/obj/Debug/net5.0/Copyarray.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/obj/Debug/net5.0/Copyarray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/obj/Debug/net5.0/Copyarray.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/obj/Debug/net5.0/Copyarray.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/obj/Debug/net5.0/Copyarray.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/obj/Debug/net5.0/Copyarray.dll
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/obj/Debug/net5.0/ref/Copyarray.dll
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/obj/Debug/net5.0/Copyarray.pdb
+/Users/Ethan_Zhang/Desktop/HW2/Copyarray/obj/Debug/net5.0/Copyarray.genruntimeconfig.cache

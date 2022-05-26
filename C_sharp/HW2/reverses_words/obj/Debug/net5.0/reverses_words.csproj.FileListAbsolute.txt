@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/bin/Debug/net5.0/reverses_words.deps.json
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/bin/Debug/net5.0/reverses_words.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/bin/Debug/net5.0/reverses_words.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/bin/Debug/net5.0/reverses_words.dll
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/bin/Debug/net5.0/ref/reverses_words.dll
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/bin/Debug/net5.0/reverses_words.pdb
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/obj/Debug/net5.0/reverses_words.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/obj/Debug/net5.0/reverses_words.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/obj/Debug/net5.0/reverses_words.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/obj/Debug/net5.0/reverses_words.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/obj/Debug/net5.0/reverses_words.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/obj/Debug/net5.0/reverses_words.dll
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/obj/Debug/net5.0/ref/reverses_words.dll
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/obj/Debug/net5.0/reverses_words.pdb
+/Users/Ethan_Zhang/Desktop/HW2/reverses_words/obj/Debug/net5.0/reverses_words.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/bin/Debug/net5.0/To_do_list.deps.json
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/bin/Debug/net5.0/To_do_list.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/bin/Debug/net5.0/To_do_list.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/bin/Debug/net5.0/To_do_list.dll
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/bin/Debug/net5.0/ref/To_do_list.dll
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/bin/Debug/net5.0/To_do_list.pdb
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/obj/Debug/net5.0/To_do_list.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/obj/Debug/net5.0/To_do_list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/obj/Debug/net5.0/To_do_list.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/obj/Debug/net5.0/To_do_list.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/obj/Debug/net5.0/To_do_list.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/obj/Debug/net5.0/To_do_list.dll
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/obj/Debug/net5.0/ref/To_do_list.dll
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/obj/Debug/net5.0/To_do_list.pdb
+/Users/Ethan_Zhang/Desktop/HW2/To_do_list/obj/Debug/net5.0/To_do_list.genruntimeconfig.cache

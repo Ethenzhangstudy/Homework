@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/bin/Debug/net5.0/palindromes.deps.json
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/bin/Debug/net5.0/palindromes.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/bin/Debug/net5.0/palindromes.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/bin/Debug/net5.0/palindromes.dll
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/bin/Debug/net5.0/ref/palindromes.dll
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/bin/Debug/net5.0/palindromes.pdb
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/obj/Debug/net5.0/palindromes.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/obj/Debug/net5.0/palindromes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/obj/Debug/net5.0/palindromes.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/obj/Debug/net5.0/palindromes.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/obj/Debug/net5.0/palindromes.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/obj/Debug/net5.0/palindromes.dll
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/obj/Debug/net5.0/ref/palindromes.dll
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/obj/Debug/net5.0/palindromes.pdb
+/Users/Ethan_Zhang/Desktop/HW2/palindromes/obj/Debug/net5.0/palindromes.genruntimeconfig.cache
