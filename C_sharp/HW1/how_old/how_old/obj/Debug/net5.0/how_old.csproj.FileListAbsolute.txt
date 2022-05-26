@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/bin/Debug/net5.0/how_old.deps.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/bin/Debug/net5.0/how_old.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/bin/Debug/net5.0/how_old.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/bin/Debug/net5.0/how_old.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/bin/Debug/net5.0/ref/how_old.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/bin/Debug/net5.0/how_old.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/obj/Debug/net5.0/how_old.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/obj/Debug/net5.0/how_old.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/obj/Debug/net5.0/how_old.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/obj/Debug/net5.0/how_old.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/obj/Debug/net5.0/how_old.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/obj/Debug/net5.0/how_old.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/obj/Debug/net5.0/ref/how_old.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/obj/Debug/net5.0/how_old.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/how_old/how_old/obj/Debug/net5.0/how_old.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/bin/Debug/net5.0/countingnumber.deps.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/bin/Debug/net5.0/countingnumber.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/bin/Debug/net5.0/countingnumber.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/bin/Debug/net5.0/countingnumber.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/bin/Debug/net5.0/ref/countingnumber.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/bin/Debug/net5.0/countingnumber.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/obj/Debug/net5.0/countingnumber.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/obj/Debug/net5.0/countingnumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/obj/Debug/net5.0/countingnumber.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/obj/Debug/net5.0/countingnumber.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/obj/Debug/net5.0/countingnumber.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/obj/Debug/net5.0/countingnumber.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/obj/Debug/net5.0/ref/countingnumber.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/obj/Debug/net5.0/countingnumber.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/countingnumber/countingnumber/obj/Debug/net5.0/countingnumber.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/bin/Debug/net5.0/greeting.deps.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/bin/Debug/net5.0/greeting.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/bin/Debug/net5.0/greeting.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/bin/Debug/net5.0/greeting.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/bin/Debug/net5.0/ref/greeting.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/bin/Debug/net5.0/greeting.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/obj/Debug/net5.0/greeting.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/obj/Debug/net5.0/greeting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/obj/Debug/net5.0/greeting.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/obj/Debug/net5.0/greeting.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/obj/Debug/net5.0/greeting.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/obj/Debug/net5.0/greeting.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/obj/Debug/net5.0/ref/greeting.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/obj/Debug/net5.0/greeting.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/greeting/greeting/obj/Debug/net5.0/greeting.genruntimeconfig.cache

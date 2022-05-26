@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/obj/Debug/net5.0/FizzBuz.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/obj/Debug/net5.0/FizzBuz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/obj/Debug/net5.0/FizzBuz.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/obj/Debug/net5.0/FizzBuz.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/obj/Debug/net5.0/FizzBuz.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/bin/Debug/net5.0/FizzBuz.deps.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/bin/Debug/net5.0/FizzBuz.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/bin/Debug/net5.0/FizzBuz.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/bin/Debug/net5.0/FizzBuz.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/bin/Debug/net5.0/ref/FizzBuz.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/bin/Debug/net5.0/FizzBuz.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/obj/Debug/net5.0/FizzBuz.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/obj/Debug/net5.0/ref/FizzBuz.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/obj/Debug/net5.0/FizzBuz.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/FizzBuz/FizzBuz/obj/Debug/net5.0/FizzBuz.genruntimeconfig.cache

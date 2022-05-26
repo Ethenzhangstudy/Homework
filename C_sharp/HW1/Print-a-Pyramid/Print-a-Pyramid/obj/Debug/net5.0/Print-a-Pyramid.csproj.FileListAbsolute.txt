@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/bin/Debug/net5.0/Print-a-Pyramid.deps.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/bin/Debug/net5.0/Print-a-Pyramid.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/bin/Debug/net5.0/Print-a-Pyramid.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/bin/Debug/net5.0/Print-a-Pyramid.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/bin/Debug/net5.0/ref/Print-a-Pyramid.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/bin/Debug/net5.0/Print-a-Pyramid.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/obj/Debug/net5.0/Print-a-Pyramid.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/obj/Debug/net5.0/Print-a-Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/obj/Debug/net5.0/Print-a-Pyramid.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/obj/Debug/net5.0/Print-a-Pyramid.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/obj/Debug/net5.0/Print-a-Pyramid.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/obj/Debug/net5.0/Print-a-Pyramid.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/obj/Debug/net5.0/ref/Print-a-Pyramid.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/obj/Debug/net5.0/Print-a-Pyramid.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/Print-a-Pyramid/Print-a-Pyramid/obj/Debug/net5.0/Print-a-Pyramid.genruntimeconfig.cache

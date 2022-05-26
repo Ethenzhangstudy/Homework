@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/bin/Debug/net5.0/randomnumber.deps.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/bin/Debug/net5.0/randomnumber.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/bin/Debug/net5.0/randomnumber.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/bin/Debug/net5.0/randomnumber.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/bin/Debug/net5.0/ref/randomnumber.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/bin/Debug/net5.0/randomnumber.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/obj/Debug/net5.0/randomnumber.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/obj/Debug/net5.0/randomnumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/obj/Debug/net5.0/randomnumber.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/obj/Debug/net5.0/randomnumber.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/obj/Debug/net5.0/randomnumber.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/obj/Debug/net5.0/randomnumber.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/obj/Debug/net5.0/ref/randomnumber.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/obj/Debug/net5.0/randomnumber.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/randomnumber/randomnumber/obj/Debug/net5.0/randomnumber.genruntimeconfig.cache

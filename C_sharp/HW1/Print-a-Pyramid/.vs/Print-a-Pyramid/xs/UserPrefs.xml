@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{982830ED-F2D7-4120-8B29-680A687B8B2C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Print-a-Pyramid/Program.cs">
+    <Files>
+      <File FileName="Print-a-Pyramid/Program.cs" Line="20" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Print-a-Pyramid" expanded="True">
+            <Node name="Print-a-Pyramid" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Print-a-Pyramid PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

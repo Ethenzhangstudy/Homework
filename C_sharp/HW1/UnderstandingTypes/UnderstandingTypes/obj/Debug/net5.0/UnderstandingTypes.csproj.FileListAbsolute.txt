@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/bin/Debug/net5.0/UnderstandingTypes.deps.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/bin/Debug/net5.0/UnderstandingTypes.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/bin/Debug/net5.0/UnderstandingTypes.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/bin/Debug/net5.0/UnderstandingTypes.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/bin/Debug/net5.0/ref/UnderstandingTypes.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/bin/Debug/net5.0/UnderstandingTypes.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/obj/Debug/net5.0/UnderstandingTypes.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/obj/Debug/net5.0/UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/obj/Debug/net5.0/UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/obj/Debug/net5.0/UnderstandingTypes.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/obj/Debug/net5.0/UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/obj/Debug/net5.0/UnderstandingTypes.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/obj/Debug/net5.0/ref/UnderstandingTypes.dll
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/obj/Debug/net5.0/UnderstandingTypes.pdb
+/Users/Ethan_Zhang/Desktop/Antra/Homework/UnderstandingTypes/UnderstandingTypes/obj/Debug/net5.0/UnderstandingTypes.genruntimeconfig.cache
