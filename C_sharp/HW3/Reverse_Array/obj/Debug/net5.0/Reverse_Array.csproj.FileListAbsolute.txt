@@ -1,0 +1,15 @@
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/bin/Debug/net5.0/Reverse_Array.deps.json
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/bin/Debug/net5.0/Reverse_Array.runtimeconfig.json
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/bin/Debug/net5.0/Reverse_Array.runtimeconfig.dev.json
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/bin/Debug/net5.0/Reverse_Array.dll
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/bin/Debug/net5.0/ref/Reverse_Array.dll
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/bin/Debug/net5.0/Reverse_Array.pdb
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/obj/Debug/net5.0/Reverse_Array.csproj.AssemblyReference.cache
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/obj/Debug/net5.0/Reverse_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/obj/Debug/net5.0/Reverse_Array.AssemblyInfoInputs.cache
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/obj/Debug/net5.0/Reverse_Array.AssemblyInfo.cs
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/obj/Debug/net5.0/Reverse_Array.csproj.CoreCompileInputs.cache
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/obj/Debug/net5.0/Reverse_Array.dll
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/obj/Debug/net5.0/ref/Reverse_Array.dll
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/obj/Debug/net5.0/Reverse_Array.pdb
+/Users/Ethan_Zhang/Desktop/HW3/Reverse_Array/obj/Debug/net5.0/Reverse_Array.genruntimeconfig.cache
